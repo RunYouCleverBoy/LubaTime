@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Liquid time</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="failed_with_reason">Failed because %s</string>
+    <string name="new_user">New user created</string>
+    <string name="user_already_logged_in">Already logged_in</string>
+</resources>

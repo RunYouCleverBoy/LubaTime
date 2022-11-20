@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284233152382",
+    "project_id": "the-time-app-5613e",
+    "storage_bucket": "the-time-app-5613e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284233152382:android:dd46d5b95479336ac0e52f",
+        "android_client_info": {
+          "package_name": "com.playground.liquidtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284233152382-saoci7if7tvd9k19ksjejrv46psl5ji4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCub8aA7BsOJffNsbwzEMoVNxarfDa-j-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284233152382-saoci7if7tvd9k19ksjejrv46psl5ji4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
